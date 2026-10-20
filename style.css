@@ -1,0 +1,37 @@
+body {
+    background: linear-gradient(135deg, #dbeafe, #e9d5ff);
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.page-heading {
+    background: linear-gradient(120deg, #201e34, #625180);
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(49, 46, 129, 0.2);
+    color: #fff;
+    margin: 2rem auto 1.5rem;
+    max-width: 900px;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.page-heading h1 {
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.page-heading p {
+    color: #e0e7ff;
+    margin-bottom: 0;
+}
+
+img {
+    width: 50%;
+}
+
+.nav-logo {
+    width: 60px;     
+    object-fit: contain;
+}
